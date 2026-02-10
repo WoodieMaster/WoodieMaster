@@ -32,10 +32,13 @@ I'm Nico, a passionate Developer interested in everything from Game Dev, website
 <img style="padding:5px;" align="center" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4">
-<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4">
-<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4">
-<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Rust" width="35px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Zed" width="35px" src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Unity" width="35px" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Zig" width="35px" src="https://avatars.githubusercontent.com/u/27973237?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Godot" width="35px" src="https://avatars.githubusercontent.com/u/6318500?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Vite" width="35px" src="https://avatars.githubusercontent.com/u/65625612?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Odin" width="35px" src="https://avatars.githubusercontent.com/u/34303136?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Jet Brains" width="35px" src="https://avatars.githubusercontent.com/u/878437?s=200&v=4">
+<img style="padding:5px;" align="center" alt="Fish Shell" width="35px" src="https://avatars.githubusercontent.com/u/1828073?s=200&v=4">
 </p>
-
-
-
