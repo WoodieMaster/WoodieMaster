@@ -34,6 +34,7 @@ I'm Nico, a passionate Developer interested in everything from Game Dev, website
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4">
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://avatars.githubusercontent.com/u/5430905?s=200&v=4">
 <img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://avatars.githubusercontent.com/u/79345384?s=200&v=4">
+<img style="padding:5px;" align="center" alt="VS Code" width="35px" src="https://avatars.githubusercontent.com/u/426196?s=200&v=4">
 </p>
 
 
