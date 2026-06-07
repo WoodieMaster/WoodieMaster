@@ -10,7 +10,7 @@ I'm Nico, a passionate Developer interested in everything from Game Dev, website
 --- 
 
 ### Introduction
-- 🏫 Almost done with [school](https://htl-kaindorf.at)
+- 🏫 Graduated from [HTL Kaindorf](https://htl-kaindorf.at)
 - 🎲 Love building small random projects
 - 🖋️ Want to create my own programming lanugage
 - 🏐 I play volleyball as a hobby
